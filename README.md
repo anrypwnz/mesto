@@ -8,4 +8,4 @@
 
 `npm run deploy` - опубликовать проект на сервере 
 
-###[Ссылка на проект](https://anrypwnz.github.io/mesto/)
+[Ссылка на проект](https://anrypwnz.github.io/mesto/)
