@@ -1,4 +1,4 @@
-import "./style.css";
+import "./pages/index.css";
 
 import "./js/initialCards.js"
 import "./js/UserInfo.js"
