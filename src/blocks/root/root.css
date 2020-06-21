@@ -1,7 +1,7 @@
 @import url(./__section/root__section.css);
 
 .root {
-  background-color: black;
+  background-image: url('../../images/beanstalk-dark.png');
   min-height: 100vh;
   font-family: 'Inter';
   padding-bottom: 194px;
